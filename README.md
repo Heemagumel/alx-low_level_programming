@@ -1,2 +1,1 @@
-# alx-low_level_programming
-C programming repository 
+start coding with C today
