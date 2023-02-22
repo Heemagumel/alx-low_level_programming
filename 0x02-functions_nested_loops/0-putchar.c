@@ -1,7 +1,8 @@
 #include "main.h"
 
-/**main - main function
- * _putchar: print alphabet putchar
+/**
+ * main - print _putchar
+ * putchar: write alphabet putchar
  * Return: always 0
  */
 
@@ -11,8 +12,8 @@ int main(void)
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
-	_putchar('h');
 	_putchar('c');
+	_putchar('h');
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
